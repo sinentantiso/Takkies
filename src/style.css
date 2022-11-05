@@ -4,7 +4,7 @@ p {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.navbar {
+.pages {
   display: 'flex';
   justify-Content: 'Right';
   align-Items: 'Right';
